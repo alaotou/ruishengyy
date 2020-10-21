@@ -11,9 +11,5 @@
     <title>$Title$</title>
   </head>
   <body>
-  <%
-    BaseDao a = new BaseDao();
-    out.print(a.hashCode());
-  %>
   </body>
 </html>
